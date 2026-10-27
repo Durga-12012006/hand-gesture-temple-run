@@ -23,3 +23,15 @@ An innovative computer vision project that allows users to play the popular mobi
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Durga-12012006/hand-gesture-temple-run.git](https://github.com/Durga-12012006/hand-gesture-temple-run.git)
+
+
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/9589e539-5eea-4882-8ec5-1499092d922c
+
+
+
+https://github.com/user-attachments/assets/56566bf3-5807-45ca-9462-d1ec1c75c6f8
+
+
+
